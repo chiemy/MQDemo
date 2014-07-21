@@ -22,7 +22,7 @@ public class SampleActivity extends Activity implements OnReceiveMessageHandler{
 	private TextView receiveMsgTv;
 	private EditText inputEt;
 	private Button sendBtn,mqttBtn;
-	
+	//Sourcetree test
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
